@@ -1,0 +1,9 @@
+.back__platform{
+    width: 1080px;
+    height: 600px;
+    background-color: #000;
+    border-radius: 25px;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
